@@ -1,4 +1,4 @@
-FROM ntc/certbot-route53
+FROM ntcnvisia/certbot-route53
 MAINTAINER dlee@nvisia.com
 
 VOLUME /var/ucp-certs
